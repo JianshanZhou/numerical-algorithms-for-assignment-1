@@ -502,7 +502,7 @@ double Norm(double *array)
 reduce the memory occupancy. Note that the number of different non-zero elements
 is (N+2).
 Given that
-arr is a double-type pointer associate with an array whose length is set to (N+2)*/
+arr is a double-type pointer associated with an array whose length is set to (N+2)*/
 int Initiate_Matrix(double *arr)
 {
     int k;
